@@ -1,7 +1,0 @@
-nyt_api_key = "Wr1Xjc3NmBCkbQAkLydP7gO9f9h2q0xg"
-nyt_secret = "4LRgHVplcskN7BUL"
-omdb_api_key = "7361ca1c"
-census_key = "90a3b4413de14a5a52626999ba58589f7a37f90d"
-weather_key = "078c8443640961d5ce547c8269db5fd7"
-gkey = "AIzaSyB8yo6Cb9p54zUKAEp-hICP1KuuP76JsB0"
-census_key = "f78117c5d343d011e4210e99471de9eec1a5a1f2"
