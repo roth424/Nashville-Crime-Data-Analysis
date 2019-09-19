@@ -1,4 +1,4 @@
-# Project-1
+
 Nashville Crime Data Analysis
 Group project in Vanderbilt University Data Analytics course completed by tolly229, feelingsunny, Roth424, wbschrei
 
